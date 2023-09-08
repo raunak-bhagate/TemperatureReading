@@ -12,7 +12,7 @@ DHT dht(DHTPIN, DHTTYPE);
  char auth[] = "vuMGLUyCglauItipofhmAOpm4MAa1mx1";
  char ssid[] = "wifi";
  char pass[] = "password";
-
+// Github Comment
 
 void setup() {
   // put your setup code here, to run once:
